@@ -1,0 +1,14 @@
+{
+  "name": "ws_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shoiti Tsuchiya",
+  "license": "MIT",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
